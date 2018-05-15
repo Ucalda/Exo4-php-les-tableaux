@@ -20,7 +20,7 @@ Créer un tableau **mois** et l'initialiser avec les valeurs suivantes :
 Avec le tableau de l'exercice 1, afficher la valeur de la troisième ligne de ce tableau.
 
 ## Exercice 3
-Avec le tableau de l'exercice , afficher la valeur de l'index 5.
+Avec le tableau de l'exercice 1, afficher la valeur de l'index 5.
 
 ## Exercice 4
 Avec le tableau de l'exercice 1, modifier le mois de **aout** pour lui ajouter l'accent manquant.
